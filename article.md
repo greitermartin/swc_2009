@@ -1,4 +1,4 @@
-# Thesis title
+# Title: On the editing of obscene content in git
 
 ## Introduction
 
